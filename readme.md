@@ -2,7 +2,6 @@
 
 An interactive web application designed to help students learn and master GRE vocabulary words efficiently.
 
-![GRE Vocabulary Learner](https://api.placeholder.com/400/200)
 
 ## 🌟 Features
 
